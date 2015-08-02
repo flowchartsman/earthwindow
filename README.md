@@ -2,7 +2,7 @@
 A project to create a self-contained viewing window of Earth from space.
 
 ## Concept
-Soon [Urthecast](https://www.urthecast.com/) will be opening up its API to real-time (or near-real-time images of the Earth from the International Space Station). This project aims to create software that will interface with this API and provide a persistent, streaming view of the planet on an HDMI-equipped TV or monitor.
+Soon [Urthecast](https://www.urthecast.com/) will be opening up its API to real-time (or near-real-time) images of the Earth from the International Space Station). This project aims to create software that will interface with this API and provide a persistent, streaming view of the planet on an HDMI-equipped TV or monitor.
 
 ## Implementation
 
